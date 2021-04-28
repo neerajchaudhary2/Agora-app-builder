@@ -1,0 +1,16 @@
+{
+  "APP_CERTIFICATE": "645f937103ec42c2a83925adb7da1d2e",
+  "CUSTOMER_ID": "",
+  "CUSTOMER_CERTIFICATE": "",
+  "BUCKET_NAME": "",
+  "BUCKET_ACCESS_KEY": "",
+  "BUCKET_ACCESS_SECRET": "",
+  "CLIENT_ID": "",
+  "CLIENT_SECRET": "",
+  "PSTN_USERNAME": "",
+  "PSTN_PASSWORD": "",
+  "ENABLE_OAUTH": false,
+  "APP_ID": "559faac355e843ccb34ac68cb6c9dc32",
+  "REDIRECT_URL": "https://symblpoweredagora.herokuapp.com/oauth",
+  "SCHEME": "symblpoweredagora"
+}
