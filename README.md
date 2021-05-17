@@ -72,7 +72,7 @@ At the end of this file , enter the backend url generated in step 4 to backendUR
 Save and quit.
 7. Now install all the necessary packages needed for the application. Please run below command fro project root directory.
       ```
-      $ npm start
+      $ npm install
       ```
 8. To start the application 
      ```
