@@ -44,7 +44,7 @@ This is a multi-party video conferencing application that demonstrates [Symbl's 
 * Live Closed Captioning
 * Real-time Transcription
 * Real-time insights : Questions , Action-Items , Follow-ups
-* Real time Topic sentiments 
+* Real time Topic with sentiments 
 * Video conferencing with real-time video and audio
 * Enable/Disable camera
 * Mute/unmute mic
