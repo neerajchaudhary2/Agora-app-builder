@@ -56,9 +56,6 @@ The first step to getting setup is to [sign up][signup].
 Gather your Symbl credentials:
 1. Your App Id that you can get from [Platform](https://platform.symbl.ai)
 2. Your App Secret that you can get from [Platform](https://platform.symbl.ai)
-
-![Symbl Credentials Dialog](./docs/symbl-credentials.png?v=4&s=100)
-
 3. Go to the file SymblConfig.js and update your Symbl AppId and AppSecret .
 
 Create Agora RTE APP:
