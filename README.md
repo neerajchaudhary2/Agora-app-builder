@@ -78,13 +78,13 @@ In the AppId field , enter your Agora AppID.
 At the end of this file , enter the backend url generated in step 4 to backendURL variable.
 Save and quit.
 7. Now install all the necessary packages needed for the application. Please run below command fro project root directory.
-      
+      ```
       $ npm start
-
+      ```
 8. To start the application 
-     
+     ```
      $ npm run web
-     
+     ```
    The application will be running on port 3000 on your machine. You can browse to http://localhost:3000 and use the application.
 
 Note : You can also integrate Symbl to directly to the generated RTE app frontend code as well by copying and replacing the bridge directory from this repo  to the RTE app repo.   
