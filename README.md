@@ -1,9 +1,5 @@
-# Agora-app-builder
-Agora RTE app integration with Symbl
 
-
-
-# Symbl & Agora RTE App
+# Symbl with Agora RTE App
 
 
 [![Websocket](https://img.shields.io/badge/symbl-websocket-brightgreen)](https://docs.symbl.ai/docs/streamingapi/overview/introduction)
